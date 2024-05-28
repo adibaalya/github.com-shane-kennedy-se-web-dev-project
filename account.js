@@ -2,7 +2,6 @@
 document.addEventListener("DOMContentLoaded", () => {
     console.log("DOM fully loaded and parsed");
   
-    //hi
     // Get all buttons on the page
     const buttons = document.querySelectorAll("button");
     console.log("Buttons found:", buttons.length);
